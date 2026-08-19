@@ -1,6 +1,6 @@
-class Solution:
-    def romanToInt(self, s: str) -> int:
-        value = {
+class Solution(object):
+    def romanToInt(self, s):
+        values = {
             'I': 1,
             'V': 5,
             'X': 10,
@@ -10,16 +10,10 @@ class Solution:
             'M': 1000
         }
 
-        ans = 0
-
-        for i in range(len(s)-1):
-            if value[s[i]] < value[s[i+1]]:
-                ans -= value[s[i]]
+        result = 0
+        for i in range(len(s)):
+            if i + 1 < len(s) and values[s[i]] < values[s[i+1]]:
+                result -= values[s[i]]        
             else:
-                ans += value[s[i]]
-        
-        ans += value[s[-1]]
-        return ans            
-
-
-
+                result += values[s[i]]
+        return result         
