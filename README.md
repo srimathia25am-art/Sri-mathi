@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-💻 LeetCode Problem Solver | 🧠 Learning Data Structures & Algorithms
+💻 LeetCode Problem Solver 
 </h3>
 
 <p align="center">
