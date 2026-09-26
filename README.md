@@ -1,82 +1,64 @@
-<h1 align="center"> 💻 Sri-mathi </h1>
+<h1 align="center">
+🧩 Hi 👋, I'm Srimathi
+</h1>
 
-<h3 align="center"> 🧩 My LeetCode Problem Solving Journey </h3>
+<h3 align="center">
+💻 LeetCode Problem Solver | 🧠 Learning Data Structures & Algorithms
+</h3>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0D1117&text=Code%20%E2%80%A2%20Solve%20%E2%80%A2%20Improve&fontColor=00D9FF&fontSize=40&animation=fadeIn&fontAlignY=38"/> </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0D1117&text=Solve%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve&fontColor=00D9FF&fontSize=40&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-👋 Hi, I'm Srimathi!
+---
 
-I'm an AI & Machine Learning student who is passionate about programming, problem solving, and learning new technologies.
-
-This repository contains my LeetCode solutions, where I practice Data Structures & Algorithms and improve my problem-solving skills.
-
-🧩 LeetCode Progress
+# 🧩 My LeetCode Journey
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Sri-mathi/"> <img src="https://img.shields.io/badge/LeetCode-Sri--mathi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&pause=1000&color=FFA116&center=true&vCenter=true&width=900&lines=Hi+I'm+Srimathi;LeetCode+Problem+Solver;Learning+Data+Structures+%26+Algorithms;Practicing+Problem+Solving;Solving+Problems+Every+Day+%F0%9F%A7%A9;Keep+Coding+%F0%9F%9A%80"/>
 
 </p>
 
-Difficulty	Problems Solved
-🟢 Easy	5
-🟡 Medium	7
-🔴 Hard	0
-🏆 Total	12
-📊 My Progress
-🟢 Easy       █████░░░░░░░░░░░░░░  5
+---
 
-🟡 Medium     ███████░░░░░░░░░░░  7
-
-🔴 Hard       ░░░░░░░░░░░░░░░░░░  0
-
-                 TOTAL = 12 🧩
-💻 Programming Languages
+# 📊 LeetCode Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+<a href="https://leetcode.com/u/Sri-mathi/">
+
+<img src="https://img.shields.io/badge/LeetCode-Sri--mathi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
 
 </p>
 
-🐍 Python
+<p align="center">
 
-Used for:
+<img src="https://leetcard.jacoblin.cool/Sri-mathi?theme=dark&font=Karma&ext=heatmap"/>
 
-LeetCode problem solving
-Algorithms
-Data Structures
-Problem-solving practice
-☕ Java
+</p>
 
-Currently practicing:
+> 📌 The LeetCode card above displays my current public LeetCode statistics.
 
-OOP concepts
-Arrays
-Strings
-Inheritance
-Exception Handling
-Collections
-Problem Solving
-💻 C
+---
 
-Practicing:
+# 🔥 GitHub Contribution Streak
 
-Arrays
-Strings
-Pointers
-Linked Lists
-Data Structures
-🗄️ SQL
+<p align="center">
 
-Learning:
+<img src="https://streak-stats.demolab.com?user=srimathia25am-art&theme=tokyonight&hide_border=true"/>
 
-DDL
-DML
-Constraints
-Joins
-Database Design
-🧠 Topics I'm Practicing
+</p>
+
+> 🔥 This shows my GitHub contribution streak based on my GitHub activity.
+
+---
+
+# 🧠 Topics I'm Practicing
+
+```text
 🧩 Arrays
 🔤 Strings
 🔗 Linked Lists
@@ -88,66 +70,3 @@ Database Design
 ⚡ Algorithms
 ⏱️ Time Complexity
 💾 Space Complexity
-📁 Repository Structure
-Sri-mathi/
-│
-├── 🧩 LeetCode Solutions
-│
-├── 🐍 Python
-│
-├── ☕ Java
-│
-├── 💻 C
-│
-└── 📖 README.md
-🚀 Current Goals
-+ 🧩 Solve more LeetCode problems
-+ 📚 Improve Data Structures & Algorithms
-+ ☕ Strengthen Java
-+ 🐍 Improve Python
-+ 💻 Practice C
-+ 📊 Learn Data Science
-+ 🤖 Explore AI & Machine Learning
-+ 🚀 Build real-world projects
-📈 LeetCode Profile
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Sri-mathi?theme=dark&font=Karma&ext=heatmap"/>
-
-</p>
-
-🔗 My LeetCode:
-https://leetcode.com/u/Sri-mathi/
-
-🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/srimathia25am-art"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<a href="https://www.linkedin.com/in/srimathi-ajay-kumar-631367392"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<a href="https://leetcode.com/u/Sri-mathi/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a>
-
-</p>
-
-⚡ My Coding Philosophy
-
-<p align="center">
-
-"Don't just solve the problem. Understand the problem." 🧠
-
-</p>
-
-<p align="center">
-
-🚀 Learn • Code • Solve • Repeat
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my repository! ⭐
-
-</p>
