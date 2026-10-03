@@ -8,4 +8,4 @@ class Solution(object):
 
                 if prefix == "":
                     return ""
-        return prefix            
+        return prefix
